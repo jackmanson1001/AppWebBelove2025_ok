@@ -1,5 +1,5 @@
 <?php
-const base_url = "http://localhost:80/AppWebBelove2025_Daniel_Jasson/";
+const base_url = "http://localhost:80/AppWebBelove2025_ok/";
 const host = "localhost";
 const user = "root";
 const pass = "jasselmago";
